@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    font-family: 'Lalehzar',Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+@font-face {
+    font-family: Lalehzar;
+    src: url(fonts/Lalezar-Font/OTF/Lalezar-Regular.otf) format('otf');
+}
+img{
+    width: 1080px;
+    height: 1080px;
+}
